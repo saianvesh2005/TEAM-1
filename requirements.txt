@@ -1,0 +1,6 @@
+tensorflow>=2.12
+numpy>=1.23
+pillow>=9.0
+scikit-learn>=1.1
+streamlit>=1.25
+altair==4.2.2
